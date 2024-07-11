@@ -31,9 +31,6 @@ Esto prevee mitigar la gran mayoria de los accidentes ocacionados en las areas c
 * Arquitectura del proyecto + imagen ![image](https://github.com/user-attachments/assets/4f3cba3b-7da3-4020-9f5b-9cc8b7e77c3c) ![image](https://github.com/user-attachments/assets/5e00d542-9c14-4eec-9f17-1aafc94ee754)
 ![image](https://github.com/user-attachments/assets/22465f92-0e7b-487d-abde-20017fac3876) ![image](https://github.com/user-attachments/assets/4754a6a9-471f-44e4-9014-b42d79deaa47)  ![image](https://github.com/user-attachments/assets/fdf5b370-21cb-4b4b-835a-b17e3dd869bc) ![image](https://github.com/user-attachments/assets/087753d0-940c-4aec-9fce-d427520998d3)
 
-
-
-
-
-
 -Fuente del dataset: https://www.tensorflow.org/s/results?hl=es-419&q=cars
+
+- descarga el programa completo: https://drive.google.com/file/d/1qggn0iOn25oYWz7d-PK5w7-8KBo0XRxk/view?usp=sharing
